@@ -1,12 +1,15 @@
 # Test Coverage Report Using jacoco in Android
-This is a very simple example how to use jacoco to generate a nice report in html/xml/csv of your test suite (including instrumental and unit).
 
-I used a some examples to create this like official jacoco page, gradle official page, some github of developers, medium etc.
+An example how to use Jacoco to generate reports in html, xml or csv format of your tests (including instrumental and unit).
 
-Thank you community
+## How to run
 
-Showcase
----
-<p align="center">
-  <img src="screenshot/picture1.png">
-</p>
+It's very simple, your reports will be generate inside build folder: **app/build/reports/jacoco**
+
+```bash
+./gradlew clean jacocoTestReport
+```
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TestCoverageKotlin</string>
+    <string name="login">Login</string>
+    <string name="login_success">Login success!!!</string>
+    <string name="login_fail">Login fail!!!</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+</resources>
