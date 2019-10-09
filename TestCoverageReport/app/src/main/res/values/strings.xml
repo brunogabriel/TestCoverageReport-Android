@@ -1,7 +1,0 @@
-<resources>
-    <string name="app_name">TestCoverageReport</string>
-
-    <string name="app_click_hide">Click to hide</string>
-    <string name="app_click_msg">Click to show a message</string>
-    <string name="hello_world">Hello World</string>
-</resources>
