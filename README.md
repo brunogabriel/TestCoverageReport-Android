@@ -1,4 +1,4 @@
-# Test Coverage Report Using jacoco in Android
+# Test Coverage Report Using Jacoco in Android
 [![Build Status](https://travis-ci.org/brunogabriel/TestCoverageReport-Android.svg?branch=master)](https://travis-ci.org/brunogabriel/TestCoverageReport-Android) [![codecov](https://codecov.io/gh/brunogabriel/TestCoverageReport-Android/branch/master/graph/badge.svg)](https://codecov.io/gh/brunogabriel/TestCoverageReport-Android)
 
 An example how to use Jacoco to generate reports in html, xml or csv format of your tests (including instrumental and unit).
