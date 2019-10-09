@@ -32,7 +32,7 @@ android:
     - 'google-gdk-license-.+'
 
 before_install:
-  - cd AndroidSkeletonMVP
+  - cd TestCoverageKotlin
   - yes | sdkmanager "platforms;android-28"
 
 before_script:
